@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Delhi NCR",
+    "image": "https://image-static.collegedunia.com/public/asset/icons/city-state-icons/New Delhi.svg"
+  },
+  {
+    "name": "Bangalore",
+    "image": "https://image-static.collegedunia.com/public/asset/icons/city-state-icons/Bangalore.svg"
+  },
+  {
+    "name": "Hyderabad",
+    "image": "https://image-static.collegedunia.com/public/asset/icons/city-state-icons/Hyderabad.svg"
+  },
+  {
+    "name": "Pune",
+    "image": "https://image-static.collegedunia.com/public/asset/icons/city-state-icons/Pune.svg"
+  },
+  {
+    "name": "Mumbai",
+    "image": "https://image-static.collegedunia.com/public/asset/icons/city-state-icons/Mumbai.svg"
+  },
+  {
+    "name": "Chennai",
+    "image": "https://image-static.collegedunia.com/public/asset/icons/city-state-icons/Chennai.svg"
+  },
+  {
+    "name": "Kolkata",
+    "image": "https://image-static.collegedunia.com/public/asset/icons/city-state-icons/Kolkata.svg"
+  },
+  {
+    "name": "Bhopal",
+    "image": "https://image-static.collegedunia.com/public/asset/icons/city-state-icons/Bhopal.svg"
+  },
+  {
+    "name": "Indore",
+    "image": "https://image-static.collegedunia.com/public/asset/icons/city-state-icons/Indore.svg"
+  },
+  {
+    "name": "Nagpur",
+    "image": "https://image-static.collegedunia.com/public/asset/icons/city-state-icons/Nagpur.svg"
+  }
+]

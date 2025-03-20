@@ -1,0 +1,58 @@
+[
+  {
+    "title": "BE/B.Tech",
+    "url": "/courses/btech"
+  },
+  {
+    "title": "BA",
+    "url": "/courses/ba"
+  },
+  {
+    "title": "B.Sc",
+    "url": "/courses/bsc"
+  },
+  {
+    "title": "MBA/PGDM",
+    "url": "/courses/mba"
+  },
+  {
+    "title": "M.Sc",
+    "url": "/courses/msc"
+  },
+  {
+    "title": "ME/M.Tech",
+    "url": "/courses/mtech"
+  },
+  {
+    "title": "MA",
+    "url": "/courses/ma"
+  },
+  {
+    "title": "Polytechnic",
+    "url": "/courses/polytechnic"
+  },
+  {
+    "title": "M.Phil/Ph.D in Science",
+    "url": "/courses/phd-sciences"
+  },
+  {
+    "title": "B.Com",
+    "url": "/courses/bcom"
+  },
+  {
+    "title": "MD",
+    "url": "/courses/md"
+  },
+  {
+    "title": "BBA/BMS",
+    "url": "/courses/bba"
+  },
+  {
+    "title": "M.Phil/Ph.D in Arts",
+    "url": "/courses/phd-arts"
+  },
+  {
+    "title": "M.Phil/Ph.D in Engineering",
+    "url": "/courses/phd-engineering"
+  }
+]
